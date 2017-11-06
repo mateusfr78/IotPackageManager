@@ -2,7 +2,7 @@
  * IoT Package Manager - Common/Shared JS functions and variables.
  * Used in "CommonsPortal" portal
  * Last Update: 2017-11-06
- *
+ * Author: Zilker technology 
  */
 
 
