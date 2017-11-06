@@ -1,4 +1,3 @@
-<script type="text/javascript">
 /*
  * IoT Package Manager - Common/Shared JS functions and variables.
  * Used in "CommonsPortal" portal
@@ -251,5 +250,3 @@ window.isUserAuthenticated = function() {
 		return false;
 	}
 };
-
-</script>
